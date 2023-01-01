@@ -11,3 +11,7 @@
 <b>Offical Doc:- </b> <a href="https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing"><strong>Explore the docs »</strong></a><br/>
 <b>Offical Video:- </b> <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
 <br/>
+
+Sr | Problems | TryIt | Status
+----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | Evaluate Reverse Polish Notation                                                     | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Link</a>                             | ✅
