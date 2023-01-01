@@ -15,3 +15,4 @@
 Sr | Problems | TryIt | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Evaluate Reverse Polish Notation](./Microsoft/evaluate-reverse-polish-notation.md)                                                     | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Link</a>                             | ✅
+2   | [Combination Sum III](./Microsoft/combination-sum-iii.md)                                                     | <a href="https://leetcode.com/problems/combination-sum-iii/">Link</a>                             | ✅
