@@ -16,7 +16,7 @@ Sr | Problems | Try It | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Evaluate Reverse Polish Notation](./Microsoft/evaluate-reverse-polish-notation.md)                                                     | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             | ✅
 2   | [Combination Sum III](./Microsoft/combination-sum-iii.md)                                                     | [Link](https://leetcode.com/problems/combination-sum-iii/)                             | ✅
-3   | Bulls and Cows                                                     | [Link](https://leetcode.com/problems/bulls-and-cows/)                             | 
+3   | [Bulls and Cows](./Microsoft/bulls-and-cows.md)                                                     | [Link](https://leetcode.com/problems/bulls-and-cows/)                             | 
 4   | Rotate Function                                                     | [Link](https://leetcode.com/problems/rotate-function/)                             | 
 5   | Largest Divisible Subset                                                     | [Link](https://leetcode.com/problems/largest-divisible-subset/)                             | 
 6   | Perfect Rectangle                                                     | [Link](https://leetcode.com/problems/perfect-rectangle/)                             | 
