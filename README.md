@@ -37,11 +37,11 @@ Sr | Problems | Try It | Status
 
 Sr | Problems | Try It | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | Max Points on a Line                                                     | [Link](https://leetcode.com/problems/max-points-on-a-line/)                             | 
-2   | Valid Square                                                     | [Link](https://leetcode.com/problems/valid-square/)                             | 
-3   | Factorial with Trailing Zeroes                                                     | [Link](https://leetcode.com/problems/factorial-trailing-zeroes/)                             | 
-4   | Number of Boomerangs                                                     | [Link](https://leetcode.com/problems/number-of-boomerangs/)                             | 
-5   | Split Array into Consecutive Subsequences                                                     | [Link](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)                             | 
+1   | [Max Points on a Line](./Goldman%20Sachs/max-points-on-a-line.md)                                                     | [Link](https://leetcode.com/problems/max-points-on-a-line/)                             | ✅
+2   | [Valid Square](./Goldman%20Sachs/valid-square.md)                                                     | [Link](https://leetcode.com/problems/valid-square/)                             | ✅
+3   | [Factorial with Trailing Zeroes](./Goldman%20Sachs/factorial-trailing-zeroes.md)                                                     | [Link](https://leetcode.com/problems/factorial-trailing-zeroes/)                             | ✅
+4   | [Number of Boomerangs](./Goldman%20Sachs/number-of-boomerangs.md)                                                     | [Link](https://leetcode.com/problems/number-of-boomerangs/)                             | ✅
+5   | [Split Array into Consecutive Subsequences](./Goldman%20Sachs/split-array-into-consecutive-subsequences.md)                                                     | [Link](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)                             | ✅
 6   | Minimum Consecutive Cards to Pick Up                                                     | [Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)                             | 
 7   | Count Good Triplets in an Array                                                     | [Link](https://leetcode.com/problems/count-good-triplets-in-an-array/)                             | 
 8   | Maximum Points in an Archery Competition                                                     | [Link](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)                             | 
