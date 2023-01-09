@@ -33,11 +33,11 @@ public:
         int ans=1;
         for(int i=0;i<points.size();i++){
             for(int j=i+1;j<points.size();j++){
-                double a=DBL_MAX;
+                double slope=DBL_MAX;
                 if(points[i][0]!=points[j][0])
-                    a=(0.0+points[j][1]-points[i][1])/(0.0+points[j][0]-points[i][0]);
-                mp[a]++;
-                ans=max(ans,mp[a]+1);
+                    slope=(0.0+points[j][1]-points[i][1])/(0.0+points[j][0]-points[i][0]);
+                mp[slope]++;
+                ans=max(ans,mp[slope]+1);
             }
             mp.clear();
         }
