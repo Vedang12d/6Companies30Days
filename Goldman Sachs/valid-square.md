@@ -47,8 +47,7 @@ public:
                 int dist=distance(pts[i],pts[j]);
                 if(!dist)
                     return 0;
-                else
-                    st.insert(dist);
+                st.insert(dist);
             }
         }
         return st.size()==2;
