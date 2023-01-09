@@ -45,7 +45,8 @@ public:
             for(auto &q:points){
                 if(p==q)
                     continue;
-                mp[(p[0]-q[0])*(p[0]-q[0])+(p[1]-q[1])*(p[1]-q[1])]++;
+                int dist=(p[0]-q[0])*(p[0]-q[0])+(p[1]-q[1])*(p[1]-q[1]);
+                mp[dist]++;
             }
             for(auto &x:mp)
                 res+=x.second*(x.second-1);
