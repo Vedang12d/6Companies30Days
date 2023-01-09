@@ -3,14 +3,14 @@
 [![ReviseWithArsh](https://img.shields.io/badge/ReviseWithArsh-6Companies30Days-blue?style=for-the-badge&logo=github)](https://github.com/Vedang12d/6Companies30Days)
 [![ReviseWithArsh](https://img.shields.io/badge/Language-C++-purple?style=for-the-badge&logo=C%2B%2B)](https://github.com/Vedang12d/6Companies30Days)
 
+<b>Official Docs:- </b> <a href="https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing"><strong>Explore the Docs »</strong></a><br/>
+<b>Official Video:- </b> <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
+<br/>
+
 <b><h2 align="center">Arsh Microsoft Sheet</h2></b>
 
 #### Day 1-5 :
 #### Company : Microsoft
-
-<b>Official Docs:- </b> <a href="https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing"><strong>Explore the Docs »</strong></a><br/>
-<b>Official Video:- </b> <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
-<br/>
 
 Sr | Problems | Try It | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -21,10 +21,10 @@ Sr | Problems | Try It | Status
 5   | [Largest Divisible Subset](./Microsoft/largest-divisible-subset.md)                                                     | [Link](https://leetcode.com/problems/largest-divisible-subset/)                             | ✅
 6   | [Perfect Rectangle](./Microsoft/perfect-rectangle.md)                                                     | [Link](https://leetcode.com/problems/perfect-rectangle/)                             | ✅
 7   | [Course Schedule](./Microsoft/course-schedule.md)                                                     | [Link](https://leetcode.com/problems/course-schedule/)                             | ✅
-8   | Most Profitable Path in a Tree                                                     | [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/)                             | 
-9   | Number of Pairs Satisfying Inequality                                                     | [Link](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)                             | 
-10   | Shortest Unsorted Continuous Subarray                                                     | [Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                             | 
-11   | Number of Ways to Arrive at Destination                                                     | [Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)                             | 
+8   | [Most Profitable Path in a Tree](./Microsoft/most-profitable-path-in-a-tree.md)                                                     | [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/)                             | ✅
+9   | [Number of Pairs Satisfying Inequality](./Microsoft/number-of-pairs-satisfying-inequality.md)                                                     | [Link](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)                             | ✅
+10   | [Shortest Unsorted Continuous Subarray](./Microsoft/shortest-unsorted-continuous-subarray.md)                                                     | [Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                             | ✅
+11   | [Number of Ways to Arrive at Destination](./Microsoft/number-of-ways-to-arrive-at-destination.md)                                                     | [Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)                             | ✅
 12   | Longest Happy Prefix                                                     | [Link](https://leetcode.com/problems/longest-happy-prefix/)                             | 
 13   | Airplane Seat Assignment Probability                                                     | [Link](https://leetcode.com/problems/airplane-seat-assignment-probability/)                             | 
 14   | Minimum Deletions to Make Array Divisible                                                     | [Link](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)                             | 
