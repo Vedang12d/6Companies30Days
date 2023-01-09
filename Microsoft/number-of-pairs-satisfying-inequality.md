@@ -39,7 +39,7 @@ Since there does not exist any pair that satisfies the conditions, we return 0.
 </ul>
 </div>
 
-Solution:
+### Solution:
 ```cpp
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>
